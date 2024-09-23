@@ -100,4 +100,4 @@ export class Service{
 
 
 const service= new Service();
-export default storage;
+export default service;
